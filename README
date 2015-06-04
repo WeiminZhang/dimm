@@ -1,0 +1,4 @@
+cd /home/icehe/workspace/Dimm_dev
+make
+
+#即可编译出内核
