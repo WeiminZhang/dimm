@@ -1,4 +1,2 @@
-cd /home/icehe/workspace/Dimm_dev
-make
-
-#即可编译出内核
+cd切换到Dimm.c、Dimm.h所在目录下，
+再使用make指令，即可编译出内核模块。
