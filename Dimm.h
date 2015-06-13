@@ -45,9 +45,9 @@
 #include <linux/tpm.h>          // Device driver for TCG/TCPA TPM (trusted platform module).
                                 // Specifications at www.trustedcomputinggroup.org
 //#include <linux/time.h>
-#include <linux/timex.h>
-#include <linux/rtc.h>
-#include <linux/timer.h>
+//#include <linux/timex.h>
+//#include <linux/rtc.h>
+//#include <linux/timer.h>
 
 /* TODO: How to use GPL License!? */
 //MODULE_AUTHOR("Ruins"); Original Code Author
